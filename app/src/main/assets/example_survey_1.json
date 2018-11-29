@@ -1,0 +1,192 @@
+{
+  "survey_properties": {
+    "intro_message": "<strong>Your feedback helps us to build a better society.</strong><br><br><br>Hello, We welcome you to take this survey as part of our hapis project to find out about the needy. It will take less than 2 minutes to answer the quiz",
+    "end_message": "Those are all the questions I have for you. Thank you for your cooperation. Have a pleasant day.",
+    "skip_intro": false
+  },
+  "questions": [
+    {
+      "question_type": "Radioboxes",
+      "question_title": "When you think of your situation today, do you think of yourself as poor or not? ",
+      "description": "(Select any one)",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "<b>Yes</b>",
+        "<b>No</b>",
+        "Somewhat"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "In general, would you say your health is excellent, very good, good, fair, or poor?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Excellent",
+        "Very Good",
+        "good",
+        "fair",
+        "poor"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Do you feel the government will help you if you fall on bad times, or do you think you'll have only yourself to rely on?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Government will help",
+        "Have to rely on self",
+        "Don't Know"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Do you have any close friends who are poor",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Yes",
+        "No",
+        "Somewhat"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "How big a problem is poverty in our society today? Is it a big problem, somewhat of a problem, a small problem, or not a problem at all?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "A big problem",
+        "Somewhat of a problem",
+        "small problem",
+        "Not a problem"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "If you were asked to use one of these five names for the economic class you belong to, which would you say you belong in? Would you belong in …? ",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Upper class",
+        "Upper middle class",
+        "Middle class",
+        "Working class",
+        "Lower class"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "In your opinion, which is the bigger cause of poverty today - that people are not doing enough to help themselves out of poverty, or that circumstances beyond their control cause them to be poor? ",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "People aren't doing enough to help themselves out of poverty",
+        "Circumstances beyond their control causes them to be poor"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Do you think that poor people find it hard to get work, or do you think there are jobs available for anyone who is willing to work? ",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Hard to get work",
+        "jobs available for anyone who is willing to work"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Compared with 10 years ago, do you think it is easier today or harder today for a person to start out poor, work hard, and to get out of poverty?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Easier",
+        "Harder"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "In terms of the amount of money we as a country are spending on assistance to poor people, do you think we are spending too much, too little, or about the right amount?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Spending too little",
+        "Spending too much",
+        "Spending just enough"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Do you think government programs that try to improve the condition of poor people in this country are generally making things better, are making things worse, or aren't having much impact one way or another?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Making things better",
+        "Making things worse",
+        "Not having much impact"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Have you or has anyone in your immediate family ever received welfare or public assistance benefits?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Yes",
+        "No"
+      ]
+    },
+
+
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Some people tell us that they worry about becoming poor, What do you think? Does the possibility of becoming poor worry you a great deal, worry you a little, or doesn't it worry you at all?",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "Worries you a great deal",
+        "Worries you a little",
+        "Doesn't worry you at all"
+      ]
+    },
+    {
+      "question_type": "Radioboxes",
+      "question_title": "Do you think that most welfare recipients today really want to work or not? ",
+      "description": "",
+      "required": true,
+      "random_choices": true,
+      "choices": [
+        "yes",
+        "no"
+      ]
+    },
+	    {
+      "question_title": "What is the average income according to you (in USD)",
+      "description": "",
+      "required": true,
+      "question_type": "Number"
+    },
+    {
+      "question_type": "StringMultiline",
+      "question_title": "Is there anything else that you would like to add?",
+      "description": "",
+      "required": false,
+      "number_of_lines": 4
+    }
+  ]
+}

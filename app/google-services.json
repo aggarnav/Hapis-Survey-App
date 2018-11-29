@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "902398963836",
+    "firebase_url": "https://hapis-2317c.firebaseio.com",
+    "project_id": "hapis-2317c",
+    "storage_bucket": "hapis-2317c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902398963836:android:8cf2b13470ff06c7",
+        "android_client_info": {
+          "package_name": "com.example.deathsatyr.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902398963836-kec54il4c4ilkcbs72phspqcq4du26f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUoQUmdFwcrkgyAOkAnDzFOP2TrI2hMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
